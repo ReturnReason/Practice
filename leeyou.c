@@ -20,7 +20,7 @@ int main(void)
 
 	printf(" [성적처리 프로그램] 학생의 정보를 입력해주세요.\n");
 
-	for (i = 0; i < 3; i++)
+	for (i = 0; i < 3; i++) //3명의 학생 정보를 받아온다.
 	{
 		printf("%d번째 학생의 이름 : ", i + 1);
 		scanf("%s", name[i]);
