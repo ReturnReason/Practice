@@ -6,13 +6,23 @@
 /*
 git hub 연습해보기
 */
-// 깃허브 에디터에서는 어떻게 
+// 브랜치를 새로 만들어 보았다.
+
+void print_you()
+{
+
+   printf("이유\n");
+   printf("git 충돌 확인 연습\n");
+   printf("\n");
+
+}
 
 
 int main(void)
 {
 
-
+	print_you();
+	
 		char name[3][16];
 		int korean[3], english[3], math[3];
 		int total[3], rank[3], i;
