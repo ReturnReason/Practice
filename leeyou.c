@@ -6,19 +6,9 @@
 /*
 git hub 연습해보기
 */
-void print_you()
-{
-
-	printf("이유\n");
-	printf("git 충돌 확인 연습\n");
-	printf("\n");
-
-}
 
 int main(void) 
 {
-
-	print_you();
 
 		char name[3][16];
 		int korean[3], english[3], math[3];
