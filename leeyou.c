@@ -8,7 +8,7 @@ git hub 연습해보기
 */
 // 브랜치를 새로 만들어 보았다.
 
-void print_you()
+/* void print_you()
 {
 
    printf("이유\n");
@@ -16,12 +16,12 @@ void print_you()
    printf("\n");
 
 }
-
+*/
 
 int main(void)
 {
 
-	print_you();
+//	print_you();
 	
 		char name[3][16];
 		int korean[3], english[3], math[3];
